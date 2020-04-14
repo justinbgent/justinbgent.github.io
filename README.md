@@ -23,4 +23,5 @@ Android libraries: Apollo-Android, NavComponent, Picasso, OkHttp, Koin, RxJava2,
 
 ## Snake 1v1
 You can find the github repository [here](https://github.com/justinbgent/FirstGame). As titled this is a Snake 1v1 game I made using C# in MonoGame, a library made to work like Microsoft’s XNA. I like to play with it every now and then. If you download it you may run into multiple files named "CalebsIdea". This is because my nephew Caleb came up with the idea and I figured I'd make it!
+
 <img src="Snake1v1.png" />
