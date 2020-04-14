@@ -7,8 +7,7 @@ In my spare time I like to play video games, read fantasy books, make games with
 I'm an ever learning developer. At some point months back I've learned I can do anything I set my mind to. All I need is google! I find that when I start working away coding hours can go by without me even realizing it.
 
 
-# Projects
-
+# Projects:
 ## BabyApp
 This is the project I am currently working on. I am learning a lot working with my brother, an experienced designer. It is currently a private repository and will likely stay that way but I will be putting it on the Play Store when we are done. For now you have the loading screen!
 
