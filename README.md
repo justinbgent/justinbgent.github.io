@@ -1,10 +1,8 @@
 <h1><img align="left" width = "170" src="Me.png">Android Developer - About Me</h1>
 In my spare time I like to play video games, read fantasy books, make games with [MonoGame](https://www.monogame.net/), and spend time with my family.
-<br/>
-
+</br>
 I'm an ever learning developer. At some point back in time I've learned I can do anything I set my mind to. All I need is google! Often when I write code, hours go by unoticed.
-
-
+</br>
 
 # Projects:
 ## BabyApp
