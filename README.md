@@ -5,6 +5,14 @@ I'm an ever learning developer. At some point back in time I've learned I can do
 
 
 
+# Skills:
+Android Studio, GitHub, Kotlin, Java, C#, Python, Java Spring, REST APIs, Mvvm, Room, Retrofit, Debugging, RxJava, Dagger, GraphQL, ApolloAndroid, NavComponent, Picasso
+
+# Contact
+- LinkedIn: https://www.linkedin.com/in/justinbgent/
+- GitHub: https://github.com/justinbgent
+- Email: justinbgent@gmail.com
+
 # Projects:
 ## BabyApp
 This is the project I am currently working on. With the purpose of helping mothers keep track of things regarding their baby. I am learning a lot working with my brother, an experienced designer. It is currently a private repository and will likely stay that way but I will be putting it on the Play Store when we are done. For now you have the loading screen!
