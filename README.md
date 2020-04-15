@@ -5,6 +5,8 @@ I'm an ever learning developer. At some point back in time I've learned I can do
 
 
 
+
+
 # Skills:
 Android Studio, GitHub, Kotlin, Java, C#, Python, Java Spring, REST APIs, Mvvm, Room, Retrofit, Debugging, RxJava, Dagger, GraphQL, ApolloAndroid, NavComponent, Picasso
 
