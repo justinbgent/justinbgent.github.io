@@ -7,12 +7,12 @@ I'm an ever learning developer. At some point back in time I've learned I can do
 
 # Projects:
 ## BabyApp
-This is the project I am currently working on. I am learning a lot working with my brother, an experienced designer. It is currently a private repository and will likely stay that way but I will be putting it on the Play Store when we are done. For now you have the loading screen!
+This is the project I am currently working on. With the purpose of helping mothers keep track of things regarding their baby. I am learning a lot working with my brother, an experienced designer. It is currently a private repository and will likely stay that way but I will be putting it on the Play Store when we are done. For now you have the loading screen!
 
 <img src="BabyApp.png" width = "300"/>
 
 ## Community Calendar
-You can find the repository [here](https://github.com/Lambda-School-Labs/community-calendar-android). This was a remote project done with a team that has Android, Web, and iOS counterparts. I was on the Android team and used many libraries on the project.
+You can find the repository [here](https://github.com/Lambda-School-Labs/community-calendar-android). The goal of the app is to help community members conveniently find upcoming events. This was a remote project done with a team that had Android, Web, and iOS counterparts. I was on the Android team and used many libraries on the project.
 Android libraries: Apollo-Android, NavComponent, Picasso, OkHttp, Koin, RxJava2, Room, Moshi
 
 <img src="MainScreen.png" width = "300"/> <img src="Campfire.png" width = "300"/> <img src="Search.png" width = "300"/>
