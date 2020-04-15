@@ -3,7 +3,7 @@
 # Android Developer - About Me
 In my spare time I like to play video games, read fantasy books, make games with [MonoGame](https://www.monogame.net/), and spend time with my family.
 
-I'm an ever learning developer. At some point back in time I've learned I can do anything I set my mind to. All I need is google! I've found when I start coding, often hours go by unoticed.
+I'm an ever learning developer. At some point back in time I've learned I can do anything I set my mind to. All I need is google! Often when I write code, hours go by unoticed.
 
 
 # Projects:
