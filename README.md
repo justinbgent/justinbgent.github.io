@@ -12,7 +12,7 @@ This is the project I am currently working on. With the purpose of helping mothe
 <img src="BabyApp.png" width = "300"/>
 
 ## Community Calendar
-You can find the repository [here](https://github.com/Lambda-School-Labs/community-calendar-android). The goal of the app is to help community members conveniently find upcoming events. This was a remote project done with a team that had Android, Web, and iOS counterparts. I was on the Android team and used many libraries on the project.
+You can find the repository [here](https://github.com/Lambda-School-Labs/community-calendar-android). The goal of the app is to help community members conveniently find upcoming events. This was a remote project done with a team that had Android, Web, and iOS counterparts. I was on the Android team and used many libraries on the project. I primarily developed the functionality of the home, event details, and search screens.
 Android libraries: Apollo-Android, NavComponent, Picasso, OkHttp, Koin, RxJava2, Room, Moshi
 
 <img src="MainScreen.png" width = "300"/> <img src="Campfire.png" width = "300"/> <img src="Search.png" width = "300"/>
