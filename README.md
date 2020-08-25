@@ -29,7 +29,7 @@ Android libraries: Apollo-Android, NavComponent, Picasso, OkHttp, Koin, RxJava2,
 <img src="Results.png" width = "300"/>
 
 ## Game Engine in MonoGame
-This is quite a hobby project. When I need a break from other projects I come here. It is a ton of fun every time. I've built collision boxes for sprites I can move around the screen. It handles rectangles, circles, and triangle collisions in which I personally coded to work. I am currently working on a map editor for it. Github says it has reached 12,500+ lines of code via commits.
+This is quite a hobby project. When I need a break from other projects I come here. It is a ton of fun every time. I've built collision boxes for sprites I can move around the screen. It handles rectangle, circle, and triangle collisions in which I admit each took me some time to figure out. Lots of algebra and geometry. I am currently working on a map editor for it. Github says it has reached 12,500+ lines of code via commits.
 
 ## Snake 1v1
 You can find the repository [here](https://github.com/justinbgent/FirstGame). As titled this is a Snake 1v1 game I made using C# in MonoGame, a library made to work like Microsoft’s XNA. I like to play with it every now and then. If you download it you may run into multiple files named "CalebsIdea". This is because my nephew Caleb came up with the idea and I figured I'd make it!
