@@ -1,7 +1,7 @@
 <h1><img align="left" width="165" style="background:none; border:none; box-shadow:none;" src="Me.png">Android Developer - About Me</h1>
-In my spare time I like to play video games, read fantasy books, make games with [MonoGame](https://www.monogame.net/), and spend time with my family.
+In my spare time I like to go on dates, socialize with friends & family, create video games, read books, and play games—among other things.
 
-I'm an ever learning developer. At some point back in time I've learned I can do anything I set my mind to. All I need is google! Often when I write code, hours go by unoticed.
+I'm an ever learning programmer. I've found I can do anything I set my mind to. I'll admit, Google helps out a lot! Often when I write code, hours go by unoticed.
 
 
 
