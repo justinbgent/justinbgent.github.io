@@ -17,10 +17,10 @@ Android Studio, Visual Studio, GitHub, Kotlin, Java, C#, Python, Java Spring, RE
 
 # Projects:
 ## Rekor Blue (Not Owned by Me)
-This is the project I am currently working on at Rekor. https://play.google.com/store/apps/details?id=ai.rekor.rekorblue
+[This](https://play.google.com/store/apps/details?id=ai.rekor.rekorblue) is the project I am currently working on at Rekor.
 
 ## Split Inertia
-Split Inertia is a fast paced online multiplayer video game I am building in Unity. I can't help but mention, multiplayer UDP oriented code may be the most challenging thing I've ever worked on. Nonetheless, this hobby project shared with my brother Kevin, is a ton of fun to create. Note I am the one programming the game mechanics and Kevin does all of the visual magic. Here's Kevin's portfolio showing the game if you'd like to see some visuals! http://www.kevingent.com/p_si.html
+Split Inertia is a fast paced online multiplayer video game I am building in Unity. I can't help but mention, multiplayer UDP oriented code may be the most challenging thing I've ever worked on. Nonetheless, this hobby project shared with my brother Kevin, is a ton of fun to create. Note I am the one programming the game mechanics and Kevin does all of the visual magic. [Here's](http://www.kevingent.com/p_si.html) Kevin's portfolio showing the game if you'd like to see some visuals!
 
 ## Community Calendar
 You can find the repository [here](https://github.com/Lambda-School-Labs/community-calendar-android). The goal of the app is to help community members conveniently find upcoming events. This was a remote project done with a team that had Android, Web, and iOS counterparts. I was on the Android team and used many libraries on the project. I primarily developed the functionality of the home, event details, and search screens.
