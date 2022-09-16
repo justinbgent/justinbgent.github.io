@@ -1,5 +1,5 @@
 <h1><img align="left" width="165" style="background:none; border:none; box-shadow:none;" src="Me.png">Android Developer - About Me</h1>
-In my spare time I like to go on dates, socialize with friends & family, create video games, read books, and play games—among other things.
+In my spare time I like to go on dates, socialize with friends & family, create video games, read books, and play games.
 
 I'm an ever learning programmer. I've found I can do anything I set my mind to. I'll admit, Google helps out a lot! Often when I write code, hours go by unoticed.
 
@@ -16,10 +16,11 @@ Android Studio, Visual Studio, GitHub, Kotlin, Java, C#, Python, Java Spring, RE
 - Email: justinbgent@gmail.com
 
 # Projects:
-## BabyApp
-This is the project I am currently working on. With the purpose of helping mothers keep track of things regarding their baby. I am learning a lot working with my brother, an experienced designer. It is currently a private repository and will likely stay that way but I will be putting it on the Play Store when we are done. For now you have the loading screen!
+## Rekor Blue (Not Owned by Me)
+This is the project I am currently working on at Rekor. https://play.google.com/store/apps/details?id=ai.rekor.rekorblue
 
-<img src="BabyApp.png" width = "300"/>
+## Split Inertia
+Split Inertia is a fast paced online multiplayer video game I am building in Unity. I can't help but mention, multiplayer UDP oriented code may be the most challenging thing I've ever worked on. Nonetheless, this hobby project shared with my brother Kevin, is a ton of fun to create. Note I am the one programming the game mechanics and Kevin does all of the visual magic. Here's Kevin's portfolio showing the game if you'd like to see some visuals! http://www.kevingent.com/p_si.html
 
 ## Community Calendar
 You can find the repository [here](https://github.com/Lambda-School-Labs/community-calendar-android). The goal of the app is to help community members conveniently find upcoming events. This was a remote project done with a team that had Android, Web, and iOS counterparts. I was on the Android team and used many libraries on the project. I primarily developed the functionality of the home, event details, and search screens.
