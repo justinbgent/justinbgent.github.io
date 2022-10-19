@@ -16,8 +16,11 @@ Android Studio, Visual Studio, GitHub, Kotlin, Java, C#, Python, Java Spring, RE
 - Email: justinbgent@gmail.com
 
 # Projects:
-## Rekor Blue (Not Owned by Me)
-[This](https://play.google.com/store/apps/details?id=ai.rekor.rekorblue) is the project I am currently working on at Rekor.
+## Rekor Blue (Owned by Rekor Systems)
+[This](https://play.google.com/store/apps/details?id=ai.rekor.rekorblue) is the project I've worked on most at Rekor. Here I learned much adding features and fixing unforseen bugs. I worked a lot with CameraX fine tuning configurations and sending frames to the License Plate Recognition library we interacted with through the JNI framework. I helped structure the Room database for saving plate reads, hot lists, and other data pieces. To be brief here are a few other contributions, REST API interactions for signing in, uploading plate reads, downloading hot lists, downloading and extracting zip configuration files, and creating application settings among other things.
+
+## Plate Reader (Owned by Rekor Systems)
+Plate Reader was both our playground application where we tested out many features before implementing them in Blue and a place where we created a "base library" module for general use in company Android applications. We generated a aar file from the base library and implemented it in Blue. To name a few things our base library provided, date string manipulation, frequently used methods like fragment navigation, and base classes like a base view model. I periodically would add or update the base library module for use in other apps.
 
 ## Split Inertia
 Split Inertia is a fast paced online multiplayer video game I am building in Unity. I can't help but mention, multiplayer UDP oriented code may be the most challenging thing I've ever worked on. Nonetheless, this hobby project shared with my brother Kevin, is a ton of fun to create. Note I am the one programming the game mechanics and Kevin does all of the visual magic. [Here's](http://www.kevingent.com/p_si.html) Kevin's portfolio showing the game if you'd like to see some visuals!
@@ -30,7 +33,7 @@ Android libraries: Apollo-Android, NavComponent, Picasso, OkHttp, Koin, RxJava2,
 <img src="Results.png" width = "300"/>
 
 ## Game Engine in MonoGame
-This is a old hobby project. I learned a lot about game dev working on this. It was always a ton of fun to work on. I've built collision boxes for sprites I can move around the screen. It handles rectangle, circle, and triangle collisions in which I admit each took me some time to figure out. Lots of algebra and geometry. I am currently working on a map editor for it. Github says it has reached 12,500+ lines of code via commits.
+This is a old hobby project. I learned a lot about game dev working on this, it was quite fun. I've built collision boxes for sprites I can move around the screen. It handles rectangle, circle, and triangle collisions in which I admit each took me some time to figure out. Lots of algebra and geometry. I am currently working on a map editor for it. Github says it has reached 12,500+ lines of code via commits.
 
 ## Snake 1v1
 You can find the repository [here](https://github.com/justinbgent/FirstGame). As titled this is a Snake 1v1 game I made using C# in MonoGame, a library made to work like Microsoft’s XNA. I like to play with it every now and then. If you download it you may run into multiple files named "CalebsIdea". This is because my nephew Caleb came up with the idea and I figured I'd make it!
