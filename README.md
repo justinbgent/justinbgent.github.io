@@ -1,5 +1,5 @@
 <h1><img align="left" width="165" style="background:none; border:none; box-shadow:none;" src="Me.png">Android Developer - About Me</h1>
-In my spare time I like to create video games, spend time with my wife, read books, roller blade on trails, socialize with friends & family, and of course play video games!
+In my spare time I like to create video games, spend time with my wife, read books, roller blade on trails, socialize with friends & family, and of course, play video games!
 
 I'm an ever learning programmer. I've found I can do anything I set my mind to. As would be expected, online resources help out a lot! Often when I write code, hours go by unoticed.
 
