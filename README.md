@@ -41,8 +41,7 @@ Plate Reader was both our playground application where we tested out many featur
 You can find the repository [here](https://github.com/Lambda-School-Labs/community-calendar-android). The goal of the app is to help community members conveniently find upcoming events. This was a remote project done with a team that had Android, Web, and iOS counterparts. I was on the Android team and used many libraries on the project. I primarily developed the functionality of the home, event details, and search screens.
 Android libraries: Apollo-Android, NavComponent, Picasso, OkHttp, Koin, RxJava2, Room, Moshi
 
-<img src="MainScreen.png" width = "300"/> <img src="Campfire.png" width = "300"/> <img src="Search.png" width = "300"/>
-<img src="Results.png" width = "300"/>
+<img src="MainScreen.png" width = "235"/> <img src="Campfire.png" width = "235"/> <img src="Search.png" width = "235"/> <img src="Results.png" width = "235"/>
 
 ## Game Engine - MonoGame
 This is a old hobby project. I learned a lot about game dev working on this, it was quite fun. I've built collision boxes for sprites I can move around the screen. It handles rectangle, circle, and triangle collisions in which I admit each took me some time to figure out. Lots of algebra and geometry. I am currently working on a map editor for it. Github says it has reached 12,500+ lines of code via commits.
