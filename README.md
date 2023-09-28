@@ -11,8 +11,8 @@ Android:
 Android Studio, Visual Studio, GitHub, Kotlin, Java, C#, Python, Java Spring, REST APIs, Mvvm, Room, Retrofit, Debugging, RxJava, Dagger, GraphQL, ApolloAndroid, NavComponent, Picasso, Jetpack Compose
 
 # Contact
-- LinkedIn: https://www.linkedin.com/in/justinbgent/
-- GitHub: https://github.com/justinbgent
+- LinkedIn: [https://www.linkedin.com/in/justinbgent/](https://www.linkedin.com/in/justinbgent/)
+- GitHub: [https://github.com/justinbgent](https://github.com/justinbgent)
 
 # Projects:
 ## Astrodawn - Unity
