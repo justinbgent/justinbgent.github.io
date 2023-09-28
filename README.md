@@ -13,7 +13,6 @@ Android Studio, Visual Studio, GitHub, Kotlin, Java, C#, Python, Java Spring, RE
 # Contact
 - LinkedIn: https://www.linkedin.com/in/justinbgent/
 - GitHub: https://github.com/justinbgent
-- Email: justinbgent@gmail.com
 
 # Projects:
 ## Astrodawn - Unity
